@@ -1,0 +1,1 @@
+Soma dos 10 primeiros números inteiros: $1 + 2 + 3 + ... + 10 $
